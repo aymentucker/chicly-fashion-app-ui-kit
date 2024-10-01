@@ -31,7 +31,7 @@ flutter doctor
 ## Installation
 ### Clone the repository:
 ```
-git clone https://github.com/your-username/chicly-fashion-app-ui-kit.git
+git clone https://github.com/aymentucker/chicly-fashion-app-ui-kit.git
 ```
 - **Navigate into the project directory:**:
 ```
@@ -61,3 +61,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Support
 
 For any questions or issues, feel free to open an issue on GitHub or reach out via email at info@designercastle.com.
+
