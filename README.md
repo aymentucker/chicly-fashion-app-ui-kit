@@ -49,7 +49,7 @@ flutter run
 ## Customization
 
 Modify the following to suit your project's requirements:
-- **Themes:** Update colors, fonts, and text styles in the ```lib/theme.dart``` file.
+- **Themes:** Update colors, fonts, and text styles in the ```lib/utils/themes.dart```, ```lib/utils/colors.dart``` file.
 - **Assets:** Replace placeholder images located in the ```assets/images/``` ```assets/icons/``` folders.
 - **UI Layouts:** Adjust screen layouts within the ```lib/screens/``` directory as needed.
 ## Contributions
@@ -61,4 +61,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Support
 
 For any questions or issues, feel free to open an issue on GitHub or reach out via email at info@designercastle.com.
-
